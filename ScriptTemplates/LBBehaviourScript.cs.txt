@@ -1,0 +1,38 @@
+
+// **********************************************************************
+// Copyright (C) Lenovo
+// Author: LB
+// Date: #DATE#
+// Desc: 
+// **********************************************************************
+
+using System.Collections;
+using System.Collections.Generic;
+using UnityEngine;
+
+public class #SCRIPTNAME# : MonoBehaviour
+{
+
+
+    #region property
+
+
+
+    #endregion property
+
+
+    #region Unity MonoBehaviour
+
+
+
+    #endregion Unity MonoBehaviour
+
+
+    #region Logic function
+
+
+
+    #endregion Logic function
+
+
+}
