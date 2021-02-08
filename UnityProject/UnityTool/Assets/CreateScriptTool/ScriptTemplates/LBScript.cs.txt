@@ -1,0 +1,35 @@
+
+// **********************************************************************
+// Copyright (C) Lenovo
+// Author: LB
+// Date: #DATE#
+// Desc: 
+// **********************************************************************
+
+using System.Collections;
+using System.Collections.Generic;
+using UnityEngine;
+
+namespace #NAMESPACE#
+{
+	public class #SCRIPTNAME# 
+	{
+
+
+		#region property
+
+
+
+		#endregion property
+
+
+		#region Logic function
+
+
+
+		#endregion Logic function
+
+
+	}
+}
+
